@@ -724,3 +724,5 @@ footer {
     cursor: pointer;
 }
 .btn-close:hover { opacity: 1; transform: rotate(90deg); }
+
+.link-primary-hover:hover { color: var(--bs-primary) !important; text-decoration: underline !important; cursor: pointer; }
