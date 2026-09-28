@@ -47,9 +47,11 @@ export default function Contact() {
                                 </div>
                                 <div className="contact-details">
                                     <h5>Telefon</h5>
-                                    <p><a href="tel:+905061904285">+90 (506) 190 42 85</a><br />
-                                        <a href="tel:+905417669013">+90 (541) 766 90 13</a><br />
-                                        <a href="tel:+905519951063">+90 (551) 995 10 63</a></p>
+                                    <p>
+                                        <a href="tel:+905061904285" style={{ whiteSpace: 'nowrap' }}>+90 (506) 190 42 85</a><br />
+                                        <a href="tel:+905417669013" style={{ whiteSpace: 'nowrap' }}>+90 (541) 766 90 13</a><br />
+                                        <a href="tel:+905519951063" style={{ whiteSpace: 'nowrap' }}>+90 (551) 995 10 63</a>
+                                    </p>
                                 </div>
                             </div>
 
